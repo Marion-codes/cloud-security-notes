@@ -53,3 +53,27 @@ In this project, I applied basic cloud security principles to a simple system.
 - Importance of access control and data protection 
 - How monitoring helps detect security issues
 
+## Mini Project 2: Access Control Implementation 
+
+### Scenario 
+This project focuses on how access control is used to protect systems and data. 
+
+### Implementation 
+
+#### User Roles
+- Admin: Full access to systems
+- User: Limited access to basic features 
+- Guest: Minimal or no access
+
+#### Security Principles 
+- Applied the principle of least privilege 
+- Ensured users only have access to what they need 
+
+#### Risk Reduction 
+- Reduced chances of unauthorized access
+- Limited potential damage from compromised accounts 
+
+### What I Learned 
+- How access control protects systems 
+- Why limiting permissions is important 
+- How roles help organize security 
