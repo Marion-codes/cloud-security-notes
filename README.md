@@ -25,3 +25,6 @@ This repository contains my notes and labs from my Principles of Cloud Security 
 - Build a strong foundation in cloud security
 - Develop hands-on skills
 - Work towards creating real-world cloud security projects
+
+## Next Step 
+Working on my first cloud security mini project.
