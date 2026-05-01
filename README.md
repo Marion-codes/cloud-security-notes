@@ -77,9 +77,9 @@ This project focuses on how access control is used to protect systems and data.
 
 #### User Roles
 
-* \*\*Admin\*\*: Full access to systems
-* \*\*User\*\*: Limited access to basic features
-* \*\*Guest\*\*: Minimal or no access
+**Admin**: Full access to systems
+**User**: Limited access to basic features
+**Guest**: Minimal or no access
 
 #### Security Principles
 
@@ -97,17 +97,12 @@ This project focuses on how access control is used to protect systems and data.
 * Why limiting permissions is important
 * How roles help organize security
 
-
-
-\### Real- World Example 
-
+### Real-World Example 
 
 If a company has a system with different users: 
 
 * Admins can manage the system and settings 
 * Employees can only access their work-related data
-
-
 
 By limiting access:
 
