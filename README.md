@@ -78,7 +78,9 @@ This project focuses on how access control is used to protect systems and data.
 #### User Roles
 
 **Admin**: Full access to systems
+
 **User**: Limited access to basic features
+
 **Guest**: Minimal or no access
 
 #### Security Principles
