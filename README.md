@@ -137,7 +137,18 @@ This project checks whether a password is strong or weak based on basic security
 * Importance of strong passwords
 * How security rules are applied in real systems
 
+## Mini Project 3!: Password Strength Checker
 
+### Description 
+This project checks whether a password is strong or weak using basic security rules. 
 
+### Features 
+- Checks password length
+- Checks for uppercase and lowercase letters
+- Checks for numbers
+- Checks for special characters
 
-
+### What I Learned 
+- Basic Python programming
+- How to validate user input
+- How password strength rules work
