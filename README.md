@@ -112,5 +112,35 @@ If a company has a system with different users:
 By limiting access:
 
 * Sensitive data is protected 
-* The risk of unauthorized actions is reduced 
+* The risk of unauthorized actions is reduced
+
+
+
+\## Mini Project 3: Password Strength Checker
+
+
+
+\### Description 
+
+This project checks whether a password is strong or weak based on basic security rules.
+
+
+
+\### Features
+
+* Checks password length 
+* Evaluates use of uppercase and lowercase letters
+* Encourages use of special characters
+
+
+
+\### What I Learned 
+
+* Basic Python programming 
+* Importance of strong passwords
+* How security rules are applied in real systems
+
+
+
+
 
