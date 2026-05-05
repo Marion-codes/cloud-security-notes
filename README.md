@@ -1,12 +1,12 @@
-# Cloud Security Notes \& Labs
+# Cloud Security Notes & Projects
 
-This repository contains my notes and labs from my Principles of Cloud Security class. This shows my understanding of cloud security concepts and basic implementations.
+This repository contains my notes and projects from learning cloud security and programming. It includes security concepts, practical examples, and begineer Python projects. This demonstrates my understanding of cloud security concepts and applies my knowledge through projects.
 
 ## Topics Covered:
 
 ### Introduction to Information Security
 
-* CIA Triad (Confidentiality, Integrity, Availability)
+**CIA Triad** (Confidentiality, Integrity, Availability)
 * Different types of security threats
 * Risk management concepts
 
@@ -111,18 +111,40 @@ By limiting access:
 * Sensitive data is protected 
 * The risk of unauthorized actions is reduced
 
-## Mini Project 3: Password Strength Checker
+## Python Projects
+
+### Mini Project 3: Password Strength Checker
 
 ### Description 
+
 This project checks whether a password is strong or weak using basic security rules. 
 
-### Features 
+**Features** 
 - Checks password length
 - Checks for uppercase and lowercase letters
-- Checks for numbers
-- Checks for special characters
+- Suggests adding special characters
 
-### What I Learned 
+**Skills Used:**
+- If/ elif / else
+- len()
+- String methods (islower, isupper, isalum)
+
+**What I Learned** 
 - Basic Python programming
 - How to validate user input
 - How password strength rules work
+
+**How to Run**
+- Open in Python IDLE
+- Click Run > Run Module
+- Enter a password
+  
+**Projects** 
+
+### Mini Project 1: Security Concepts Overview
+
+### Mini Project 2: Access Control 
+
+### Mini Project 3: Password Strength Checker
+- Checks password strength using python
+- Validates length, uppercase, lowercase, numbers, and special characters
