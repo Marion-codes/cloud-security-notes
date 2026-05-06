@@ -148,3 +148,17 @@ This project checks whether a password is strong or weak using basic security ru
 ### Mini Project 3: Password Strength Checker
 - Checks password strength using python
 - Validates length, uppercase, lowercase, numbers, and special characters
+
+### Mini Project 4: Login System
+
+This project simulates a basic login system.
+
+**Features:**
+- Username and password validation
+- 3 login attempts
+- Account lock after using all of failed attempts
+
+**Skills Used:**
+- if/else statements
+- while loops
+- variables
