@@ -1,5 +1,8 @@
 print("Welcome to the Login System")
 
+correct_username = "admin"
+correct_password = "1234"
+
 users = {
     "admin": "1234"
 }
