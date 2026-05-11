@@ -1,12 +1,12 @@
-# Cloud Security Notes & Projects
+# Cloud Security Notes \& Labs
 
-This repository contains my notes and projects from learning cloud security and programming. It includes security concepts, practical examples, and begineer Python projects. This demonstrates my understanding of cloud security concepts and applies my knowledge through projects.
+This repository contains my notes and labs from my Principles of Cloud Security class. This shows my understanding of cloud security concepts and basic implementations.
 
 ## Topics Covered:
 
 ### Introduction to Information Security
 
-**CIA Triad** (Confidentiality, Integrity, Availability)
+* CIA Triad (Confidentiality, Integrity, Availability)
 * Different types of security threats
 * Risk management concepts
 
@@ -31,7 +31,7 @@ This repository contains my notes and projects from learning cloud security and 
 ## Goal
 
 * Build a strong foundation in cloud security
-* Develop hands-on skills for future projects 
+* Develop hands-on skills for future projects
 * Work towards creating real-world cloud security systems
 
 ## Next Step
@@ -77,11 +77,9 @@ This project focuses on how access control is used to protect systems and data.
 
 #### User Roles
 
-**Admin**: Full access to systems
-
-**User**: Limited access to basic features
-
-**Guest**: Minimal or no access
+* \*\*Admin\*\*: Full access to systems
+* \*\*User\*\*: Limited access to basic features
+* \*\*Guest\*\*: Minimal or no access
 
 #### Security Principles
 
@@ -99,66 +97,47 @@ This project focuses on how access control is used to protect systems and data.
 * Why limiting permissions is important
 * How roles help organize security
 
-### Real-World Example 
 
-If a company has a system with different users: 
 
-* Admins can manage the system and settings 
+\### Real- World Example
+
+
+
+If a company has a system with different users:
+
+* Admins can manage the system and settings
 * Employees can only access their work-related data
+
+
 
 By limiting access:
 
-* Sensitive data is protected 
+* Sensitive data is protected
 * The risk of unauthorized actions is reduced
 
-## Python Projects
 
-### Mini Project 3: Password Strength Checker
 
-### Description 
+\## Mini Project 3: Password Strength Checker
 
-This project checks whether a password is strong or weak using basic security rules. 
 
-**Features** 
-- Checks password length
-- Checks for uppercase and lowercase letters
-- Suggests adding special characters
 
-**Skills Used:**
-- If/ elif / else
-- len()
-- String methods (islower, isupper, isalum)
+\### Description
 
-**What I Learned** 
-- Basic Python programming
-- How to validate user input
-- How password strength rules work
+This project checks whether a password is strong or weak based on basic security rules.
 
-**How to Run**
-- Open in Python IDLE
-- Click Run > Run Module
-- Enter a password
-  
-**Projects** 
 
-### Mini Project 1: Security Concepts Overview
 
-### Mini Project 2: Access Control 
+\### Features
 
-### Mini Project 3: Password Strength Checker
-- Checks password strength using python
-- Validates length, uppercase, lowercase, numbers, and special characters
+* Checks password length
+* Evaluates use of uppercase and lowercase letters
+* Encourages use of special characters
 
-### Mini Project 4: Login System
 
-This project simulates a basic login system.
 
-**Features:**
-- Username and password validation
-- 3 login attempts
-- Account lock after using all of failed attempts
+\### What I Learned
 
-**Skills Used:**
-- if/else statements
-- while loops
-- variables
+* Basic Python programming
+* Importance of strong passwords
+* How security rules are applied in real systems
+
