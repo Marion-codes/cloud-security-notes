@@ -1,4 +1,4 @@
-# Cloud Security Notes \& Labs
+# Cloud Security Notes & Labs
 
 This repository contains my notes and labs from my Principles of Cloud Security class. This shows my understanding of cloud security concepts and basic implementations.
 
@@ -141,3 +141,10 @@ This project checks whether a password is strong or weak based on basic security
 * Importance of strong passwords
 * How security rules are applied in real systems
 
+## Mini Project: Login System 
+Features:
+- User login
+- Account creation
+- Username checking
+- Password verification
+- User storage system in dictionary
