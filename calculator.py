@@ -1,19 +1,30 @@
 # Simple Calculator v1
 
-Num1 = input ("Enter first number: ")
-num2 = input ("Enter second number: ")
+while True:
+    num1= input("Enter first number (or type exit): ")
 
-result = float(num1) + float(num2)
+    if num1 == "exit":
+        print("Goodbye!")
+        break
 
-operation = input ("Choose +, -, *, /: ")
+    num2 = input("Enter second number: ")
+    
+    operation = input ("Choose +, -, *, / : ")
 
-If operation == "+":
-    print(num1 - num2)
-elif operation == "-":
-    print(num1 - num2) 
-elif operation == "*":
-    print(num1 * num2)
-elif operation == "/":
-    print(num1 / num2)
+    if operation == "+":
+        print(float(num1) + float(num2))
+    
+    elif operation == "-":
+        print(float(num1) - float(num2))
+        
+    elif operation == "*":
+        print(float(num1) * float(num2))
+        
+    elif operation == "/":
+        if float(num2) == 0:
+            print("Error: Cannot divide by zero")
+        else:
+            print(float(num1) / float(num2))
+        
 else:
     print("Invalid operation")
